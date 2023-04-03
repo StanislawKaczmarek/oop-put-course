@@ -1,0 +1,4 @@
+﻿  Lekcja ktorastam.cpp
+C:\Users\student\Desktop\Projekty S.K\Lekcja ktorastam\Lekcja ktorastam\Lekcja ktorastam.cpp(62,23): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+C:\Users\student\Desktop\Projekty S.K\Lekcja ktorastam\Lekcja ktorastam\Lekcja ktorastam.cpp(43): warning C4715: "Figure::Area”: niewszystkie ścieżki kodu zwracają wartość
+  Lekcja ktorastam.vcxproj -> C:\Users\student\Desktop\Projekty S.K\Lekcja ktorastam\Debug\Lekcja ktorastam.exe
