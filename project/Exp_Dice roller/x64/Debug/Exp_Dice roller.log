@@ -1,0 +1,6 @@
+﻿  Exp_Dice roller.cpp
+E:\Desktop\Szkoła\Obiektowe\Exp_Dice roller\Exp_Dice roller.cpp(184,29): warning C4473: „sscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+E:\Desktop\Szkoła\Obiektowe\Exp_Dice roller\Exp_Dice roller.cpp(184,29): message : symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+E:\Desktop\Szkoła\Obiektowe\Exp_Dice roller\Exp_Dice roller.cpp(184,29): message : brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+E:\Desktop\Szkoła\Obiektowe\Exp_Dice roller\Exp_Dice roller.cpp(184,29): message : ten argument jest używany jako rozmiar bufora
+  Exp_Dice roller.vcxproj -> E:\Desktop\Szkoła\Obiektowe\Exp_Dice roller\x64\Debug\Exp_Dice roller.exe
